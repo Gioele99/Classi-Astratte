@@ -1,0 +1,6 @@
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Classi Astratte\2\TassonomieInterfacce\TassonomieInterfacce\bin\Debug\TassonomieInterfacce.exe.config
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Classi Astratte\2\TassonomieInterfacce\TassonomieInterfacce\obj\Debug\TassonomieInterfacce.csprojResolveAssemblyReference.cache
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Classi Astratte\2\TassonomieInterfacce\TassonomieInterfacce\bin\Debug\TassonomieInterfacce.exe
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Classi Astratte\2\TassonomieInterfacce\TassonomieInterfacce\bin\Debug\TassonomieInterfacce.pdb
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Classi Astratte\2\TassonomieInterfacce\TassonomieInterfacce\obj\Debug\TassonomieInterfacce.exe
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Classi Astratte\2\TassonomieInterfacce\TassonomieInterfacce\obj\Debug\TassonomieInterfacce.pdb

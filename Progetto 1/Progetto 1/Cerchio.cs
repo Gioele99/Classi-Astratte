@@ -27,6 +27,11 @@ namespace Progetto_1
             return 4;
         }
 
+        public void Rotola(int velocita)
+        {
+            Console.WriteLine("rotola a " + velocita + "km/h");
+        }
+
         
     }
 }

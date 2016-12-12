@@ -10,3 +10,6 @@ C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Classi Astratte\Progetto 1\Proget
 C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Classi Astratte\Progetto 1\Progetto 1\obj\Debug\Progetto 1.csprojResolveAssemblyReference.cache
 C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Classi Astratte\Progetto 1\Progetto 1\bin\Debug\Progetto 1.exe
 C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Classi Astratte\Progetto 1\Progetto 1\bin\Debug\Progetto 1.pdb
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Classi Astratte\2\Progetto 1\Progetto 1\bin\Debug\Progetto 1.exe.config
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Classi Astratte\2\Progetto 1\Progetto 1\obj\Debug\Progetto 1.exe
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Classi Astratte\2\Progetto 1\Progetto 1\obj\Debug\Progetto 1.pdb
